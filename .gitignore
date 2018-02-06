@@ -1,0 +1,5 @@
+.idea/
+.pytest_cache/
+input_file.txt
+__cache__
+.cache
